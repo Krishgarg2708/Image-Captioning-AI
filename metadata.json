@@ -1,0 +1,6 @@
+{
+  "name": "Image Captioning AI",
+  "description": "An AI-powered system that automatically generates multiple context-aware, human-like captions, object boundaries, activities, OCR text, and detailed metrics from uploaded images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
